@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <title>Victoria RJ's Aspirations</title>
+    <link href="Users/victoriarj/Desktop/VICKWEBpage.css" alt ref="webpage">
+    <style>
+      h1 {
+        color: rgb(241, 17, 104);
+      }
+      h2 {
+        color: rgb(rgb133, 95, 134);
+      }
+      h3 {
+        color: red;
+      }
+      body{
+
+        font-weight: bold;
+        font-size: 16px;
+        text-align: center;
+        font-family: monospace;
+        background-color: pink;
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVXt3AL7CS7_kZ04EmS-Z4np2IE3TqSK7URqeOC-d0oVsHZ92BLw);
+
+      }
+      img {
+        padding: 10px;
+        border-style: groove;
+      }
+
+
+      </style>
+    </head>
+    <body>
+      <h1>How Did I Even Get Here?</h1>
+      <p>As an only child to one tough-momma, I have mastered the art of finally knowing what I want at the wholesome, yet supple age of 27.
+      <h2>A Little Backstory...</h2>
+      <p>After graduating highschool (a totally different story!)<br>
+         I searched to find out exactly what I wanted to be.<br>
+         It began with thinking I wanted to be a pilot, to a nurse, or a social worker...<br>
+         <p>But it was quite confusing, I must admit! It all got boiled down to...</p>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2ox8NL1dtIXN3cS_JJm-690i9tVuUjWmXaHIfm0v1dMRBnMiT" width="404">
+         <ul>
+           <li>Study things that you're not really into..
+             <li>Go to work at a dead end job...
+               <li>Play it all by ear!</li>
+             </p>
+
+               <div> Well, neither of that worked out, instead the unexpected happened!</div>
+      <h3><em>How Did I Get Here?</em></h3>
+    <h1>
+    <h2>
+    <p>
+    <div>
+
+    </body>
+    </html>
